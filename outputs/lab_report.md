@@ -2,7 +2,7 @@
 
 > File này **tự sinh** bởi `scripts/grade.py`. **Không** viết / sửa tay.
 
-- Generated (UTC): `2026-11-19T07:57:11.482900+00:00`
+- Generated (UTC): `2026-11-19T08:07:52.169255+00:00`
 - Framework: `google-adk`
 - Technical failure: **False**
 
@@ -30,8 +30,8 @@
 ## Red Team snapshot (từ `attack_results.json`)
 
 - Provider / model: `gemini` / `gemini-3.5-flash`
-- Unsafe leaks (Red): `1/5`
-- Guards leaks (Red Advance): `0/5`
+- Unsafe leaks (Red): `3/7`
+- Guards leaks (Red Advance): `2/7`
 
 ## Public tests
 
